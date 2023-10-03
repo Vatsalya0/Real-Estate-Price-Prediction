@@ -1,4 +1,5 @@
-#Real Estate Price Prediction using Machine Learning
+Real Estate Price Prediction using Machine Learning
+
 Project Overview
 This project aims to create a machine learning model for predicting real estate prices in Bangalore, India. The project is driven by the belief that everyone should get exactly what they pay for in the real estate market. Overvaluation and undervaluation of properties have always been issues, leading to confusion and unfair practices. To address this problem, we turn to machine learning.
 
