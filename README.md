@@ -57,10 +57,8 @@ Evaluate model performance using metrics like Mean Absolute Error (MAE), Mean Sq
 8.Hyperparameter Tuning :
 Optimize model performance through hyperparameter tuning.
 
-9.Deployment:
-Deploy the model to make predictions on new real estate data.
 
-10.Monitoring and Maintenance:
+9.Monitoring and Maintenance:
 Implement a plan for periodic updates to adapt to changing real estate market conditions.
 
 How to Use the Project (with Real Data)
